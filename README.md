@@ -41,6 +41,18 @@ The source code has great gems of documentation.
         asteroid, but the aliens had already shot, the shot would
         mysteriously keep going when you restarted.
 
+Originally posted on TheJeffFiles.com:
+
+> Creators: Jeff Verkoeyen (Programmer)
+> 
+> Production Time: Mid June, 2002
+> 
+> Genre: DOS game
+> 
+> Gameplay: Arrow keys move the ship. Avoid the asteroids to reach level 2. Once you get to level 2 you can press space to shoot lasers and shoot at the ships flying at the top of the screen. There is also a cheat code to select levels by pressing F2 and then the number of the level to jump to (either 1 or 2).
+>
+> Notes: This was the very first game I ever created on the computer, and only the second full program that wasn't just a text-input guess the number game.
+
 ### Level 1
 
 ![Galaxiados](https://raw.githubusercontent.com/featherless/2002-dos-games/master/Galaxiados version 0.10/preview.gif)
